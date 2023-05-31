@@ -20,7 +20,7 @@ public:
 
 int main() {
 	AbstraksiKlas ak;
-	ak.setXY("Yogyakart", "Kampus");
+	ak.setXY("Yogyakarta", "Kampus");
 	ak.display();
 
 	return 0;
