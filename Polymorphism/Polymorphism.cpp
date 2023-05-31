@@ -7,6 +7,10 @@ public:
 	// Virtual void pesan(){
 	// cout << "Pesan dari seseorang" << endl;
 	// }
+	//virtual void cetak() = 0;
+	virtual void cetak() {
+
+	}
 };
 
 class joko : public seseorang {
