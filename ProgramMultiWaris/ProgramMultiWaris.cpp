@@ -27,3 +27,4 @@ public:
 		cout << "manusia dihapus\n" << endl;
 	}
 };
+
